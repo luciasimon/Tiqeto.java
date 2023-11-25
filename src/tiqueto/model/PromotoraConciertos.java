@@ -1,7 +1,6 @@
 package tiqueto.model;
 
 import java.util.concurrent.ThreadLocalRandom;
-
 import static tiqueto.EjemploTicketMaster.*;
 
 public class PromotoraConciertos extends Thread {

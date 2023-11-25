@@ -2,8 +2,6 @@ package tiqueto;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
-
 import tiqueto.model.FanGrupo;
 import tiqueto.model.PromotoraConciertos;
 import tiqueto.model.WebCompraConciertos;

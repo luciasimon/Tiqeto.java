@@ -1,11 +1,7 @@
 package tiqueto.model;
 
-import tiqueto.EjemploTicketMaster;
 import tiqueto.IOperacionesWeb;
-
-import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.atomic.AtomicBoolean;
-
 import static tiqueto.EjemploTicketMaster.*;
 
 public class WebCompraConciertos implements IOperacionesWeb {

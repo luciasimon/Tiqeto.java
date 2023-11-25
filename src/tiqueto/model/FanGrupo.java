@@ -1,7 +1,6 @@
 package tiqueto.model;
 
 import java.util.concurrent.ThreadLocalRandom;
-
 import static tiqueto.EjemploTicketMaster.MAX_ENTRADAS_POR_FAN;
 
 public class FanGrupo extends Thread {
