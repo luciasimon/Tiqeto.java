@@ -11,7 +11,7 @@ public class EjemploTicketMaster {
     // Total de entradas que se venderán
     public static int TOTAL_ENTRADAS = 10;
 
-    //al principio, habrá 0 entradas, y se irán reponiendo de 2 en 2 hasta que se acaben las 10 que hay
+    //Estas serán las entradas que el promotor irá poniendo a la venta e irán comprando los fans
     public static int ENTRADAS_DISPONIBLES = 0;
 
     // El número de entradas que repondrá cada vez el promotor
