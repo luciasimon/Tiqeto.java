@@ -8,6 +8,8 @@ public class FanGrupo extends Thread {
     final WebCompraConciertos webCompra;
     int numeroFan;
     private String tabuladores = "\t\t\t\t";
+    
+    //Esta variable será el número de entradas que lleve comprado cada fan
     int entradasCompradas = 0;
 
     public FanGrupo(WebCompraConciertos web, int numeroFan) {
